@@ -1,7 +1,7 @@
 # AIvirtualAssistant
-# Prohari AI - Virtual Assistant
+# Proh AI - Virtual Assistant
 
-Prohari AI is a powerful virtual assistant built using Gemini AI API. It utilizes various Python libraries such as SpeechRecognition, Pygame, Pyttsx3, and Google Generative AI to provide a seamless voice interaction experience.
+Proh AI is a powerful virtual assistant built using Gemini AI API. It utilizes various Python libraries such as SpeechRecognition, Pygame, Pyttsx3, and Google Generative AI to provide a seamless voice interaction experience.
 
 ## Features
 - **Speech Recognition**: Uses Google SpeechRecognition to capture user queries.
