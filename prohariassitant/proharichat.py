@@ -6,7 +6,7 @@ import time
 import threading
 import keyboard
 # Google Gemini API
-genai.configure(api_key="AIzaSyDcx39dpx5qe4OKSe6L7hi7W7s9bb_KVb0")  # Replace with your key
+genai.configure(api_key="googleapikeyfromgoogleaistudio")  # Replace with your key
 model = genai.GenerativeModel(model_name="gemini-1.5-flash")
 #system instructions
 chat = model.start_chat(history=[
