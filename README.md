@@ -28,7 +28,7 @@ pip install SpeechRecognition pygame pyttsx3 google-generativeai
 ## Usage
 Run the assistant using:
 ```bash
-python prohaiassistant.py
+python prohariassistant.py
 ```
 
 ## How It Works
